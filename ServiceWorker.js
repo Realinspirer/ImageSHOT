@@ -1,9 +1,9 @@
 const cacheName = "Realinspirer-ImageSHOT!-1.0";
 const contentToCache = [
-    "Build/stuffs_webgl.loader.js",
-    "Build/stuffs_webgl.framework.js.unityweb",
-    "Build/stuffs_webgl.data.unityweb",
-    "Build/stuffs_webgl.wasm.unityweb",
+    "Build/stuffs_webgl_1.loader.js",
+    "Build/stuffs_webgl_1.framework.js.unityweb",
+    "Build/stuffs_webgl_1.data.unityweb",
+    "Build/stuffs_webgl_1.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
